@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 记忆
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 记忆
+language: zh-Hans
 timezone: ''
 
 # URL
@@ -67,8 +67,8 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+category_map: 分类
+tag_map: 标签
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
